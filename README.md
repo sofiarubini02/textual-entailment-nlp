@@ -2,8 +2,8 @@
 
 Deep Learning project for **Natural Language Inference (NLI)** on the **Stanford Natural Language Inference (SNLI)** dataset.
 
-The project develops and compares several neural network architectures for sentence-pair classification (**entailment**, **neutral**, and **contradiction**), progressing from a baseline LSTM to more advanced BiLSTM and CNN models, including MLP classification heads.
 
+The project implements and compares multiple neural network architectures for sentence-pair classification (**entailment**, **neutral**, and **contradiction**), starting with a baseline LSTM and progressively improving performance through BiLSTM, CNN, and MLP-based architectures.
 
 ---
 
