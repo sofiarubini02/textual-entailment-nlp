@@ -86,21 +86,26 @@ Hypotheses are generally shorter than premises.
 
 ---
 
-## Sentence Length Comparison
 
-![Sentence Length Boxplot](images/length_boxplot.png)
+### Sentence Length Comparison
+
+![Sentence Length Boxplot](images/premise_hypothesis_length_boxplot.png)
 
 The boxplot highlights the differences between premise and hypothesis sentence lengths.
 
+
 ---
 
-# Final Results
+
+### Final Results
 
 The best-performing architecture is the **BiLSTM + MLP** model, which achieves the highest overall accuracy among all tested architectures.
 
-## Final Confusion Matrix
+---
 
-![Final Confusion Matrix](images/confusion_matrix_bilstm_mlp_final.png)
+### Final Confusion Matrix
+
+![Final Confusion Matrix](images/confusion_matrix_bilstm_mlp.png)
 
 The confusion matrix shows strong predictive performance across all three NLI classes.
 
